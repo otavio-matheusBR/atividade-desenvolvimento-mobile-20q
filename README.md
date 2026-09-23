@@ -1,4 +1,9 @@
-# 📱 Exercícios de Flutter — UNIP
+Matheus Otávio dos Santos - H580JF2 - UNIP - ADS
+
+Professor: Mateus de Paula
+
+
+#  Exercícios de Flutter — UNIP
 
 Material de estudo contendo as questões e respostas sobre **Flutter, Dart e desenvolvimento mobile**.
 
